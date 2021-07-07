@@ -1,0 +1,17 @@
+[
+    {
+      "title": "We like commitment.",
+      "icon": "icon5.svg",
+      "content": "For companies seeking early stage funding, the founders should be fully committed personally and financially to the new venture."
+    },
+    {
+      "title": "We like lean start-ups.",
+      "icon": "icon6.svg",
+      "content": "As soon as possible, build something that works. Then keep improving upon it all the time."
+    },
+    {
+      "title": "We like engineers more than MBAs.",
+      "icon": "icon7.svg",
+      "content": "Your company should have extremely talented in-house developers working on your product."
+    }
+  ]

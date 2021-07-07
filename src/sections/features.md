@@ -1,7 +1,7 @@
 ---
-title: Most AWE.SOME Features
-afterTitle: ...and so much more!
+title: Expertise
+afterTitle: 
 type: features
 ---
 
-Pellentesque ullamcorper fringilla odio at pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla mattis erat dui, ut tempor lectus dictum id.
+Our areas of expertise include:

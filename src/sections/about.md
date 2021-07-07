@@ -1,6 +1,9 @@
 ---
-title: AWE.SOME Heading
+title: About
 type: about
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Vivamus vitae erat vel tellus condimentum consectetur.
+Our mission is to help entrepreneurs and young companies build something special, and then be there every step of the way until the final vision is realized. We do not pressure for a speedy exit or liquidity event.
+
+
+In addition to funding, we can provide access to a vast network of people and knowledge to help young technology companies succeed in all areas of e-commerce. Our degree of active involvement varies with the needs of each company.
