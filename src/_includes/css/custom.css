@@ -117,22 +117,3 @@ html {
     85.71% {transform:translate3d(0,-28.57%,0);}
     92.85% {transform:translate3d(0,-14.28%,0);}
 }
-
-.tippy-tooltip {
-    background-color: #ccc;
-    color: #C3DAFE;
-    opacity: 0.85;
-}
-
-.tippy-tooltip[data-animatefill] {
-    background-color: transparent;
-}
-
-.tippy-tooltip .tippy-backdrop {
-    background-color: #ccc;
-    opacity: 0.5;
-}
-
-.tippy-tooltip[x-placement^='bottom'] .tippy-arrow {
-    border-bottom-color: #ccc;
-}
