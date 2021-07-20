@@ -39,6 +39,10 @@ html {
 }
 
 .typing {
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
+  margin: 10px 0 0 10px;
   animation: type 4s steps(60, end);
 }
 
